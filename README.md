@@ -9,11 +9,8 @@
 <h1>Hi 👋! My name is Ashmit Singh and I'm an Undergrad student of CSE</h1>
 <hr>
 
-Second-Year Scholar | Proficient in Python | Navigating the Frontiers of Deep Learning, Neural Networks & Machine Learning Algorithms. •PYTHON •HTML •CSS •JavaScript •NodeJS •MySql •MongoDB •Mongoose •React •Postman •Tailwind CSS •Git 
-<!---
-ASHMITSINGH03/ASHMITSINGH03 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Third-Year Scholar | Proficient in Python | Navigating the Frontiers of Deep Learning, Neural Networks & Machine Learning Algorithms.MERN Stack Web Developer •PYTHON •HTML •CSS •JavaScript •NodeJS •MySql •MongoDB •Mongoose •ReactJs •Postman •Tailwind CSS •Git •Next.js •Shadcn
+
 <p align="left>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" />
