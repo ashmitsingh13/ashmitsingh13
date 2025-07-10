@@ -9,7 +9,7 @@
 <h1>Hi 👋! My name is Ashmit Singh and I'm an Undergrad student of CSE</h1>
 <hr>
 
-Third-Year Scholar | Proficient in Python | Navigating the Frontiers of Deep Learning, Neural Networks & Machine Learning Algorithms.MERN Stack Web Developer •PYTHON •HTML •CSS •JavaScript •NodeJS •MySql •MongoDB •Mongoose •ReactJs •Postman •Tailwind CSS •Git •Next.js •Shadcn
+Third-Year Scholar | Proficient in Python | Navigating the Frontiers of Deep Learning, Neural Networks & Machine Learning Algorithms.MERN Stack Web Developer •PYTHON •HTML •CSS •JavaScript •NodeJS •MySql •MongoDB •Mongoose •ReactJs •Postman •Tailwind CSS •Git •Next.js •Shadcn •FramerMotion 
 
 <p align="left>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" />
@@ -18,8 +18,9 @@ Third-Year Scholar | Proficient in Python | Navigating the Frontiers of Deep Lea
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="NodeJS" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40"/>
-  <img src="https://mongoosejs.com/docs/images/mongoose5_62x30_transparent.png" alt="Mongoose" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/framermotion/framermotion-original.svg" alt="Framer" width="50"/>
 </p>
 
